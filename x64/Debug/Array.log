@@ -1,0 +1,3 @@
+﻿  11-14-16.c
+C:\Users\MSI\source\repos\Array\Array\11-14-16.c(394,11): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Array.vcxproj -> C:\Users\MSI\source\repos\Array\x64\Debug\Array.exe
